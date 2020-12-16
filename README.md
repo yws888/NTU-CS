@@ -1,2 +1,2 @@
 # NTU-Computer-Science
-Computer Science Assignments done in NTU for reference
+Computer Science Assignments done in NTU
