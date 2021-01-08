@@ -1,11 +1,11 @@
-##Lofi prototype#
+## Lofi prototype
 
 Grade: A-
 
-Usability assignment
+## Usability assignment
 
 Grade: B+
 
-Hifi prototype
+## Hifi prototype
 
 Grade: A-
