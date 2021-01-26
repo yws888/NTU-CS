@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587140442 source:/Users/shiuanny/Desktop/C_codes/asgsnqq2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
